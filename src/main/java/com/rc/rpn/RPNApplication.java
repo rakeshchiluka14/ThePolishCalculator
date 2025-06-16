@@ -14,7 +14,7 @@ public class RPNApplication {
     public static void main(String[] args) throws IOException {
 
         if(args.length < 1){
-            System.err.println("Usage : Java RPNApplication <input-file> [output-file] ");
+            System.err.println("Usage : Java RPNApplication <input-file> ");
             return;
         }
 
