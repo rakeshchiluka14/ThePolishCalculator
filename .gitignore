@@ -1,0 +1,30 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+
+# Mac OS
+.DS_Store
+
+
+# Maven build output
+/target/
+
+# Logs
+*.log
+
+# IntelliJ specific workspace files
+*.ipr
+*.iws
+
+# JetBrains IDE caches
+.idea/.idea_modules/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml

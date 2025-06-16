@@ -1,0 +1,9 @@
+1 2 + = 3.0
+3 4 * = 12.0
+6 3 * 2 - sqrt = 4.0
+1 + 1 = Not Reverse Polish Notation try backwards
+4 2 - 2 - 1000 * = 0.0
+10 4 mod = 2.0
+8 4 avg = 6.0
+9 sin = 0.4121184852417566
+16 sqrt = 4.0
